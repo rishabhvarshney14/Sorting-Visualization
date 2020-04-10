@@ -1,5 +1,5 @@
 # Sorting-Visualization
-A simple python program to visualize of various sorting algorithm. 
+A simple python program to visualize various sorting algorithm. 
 
 Algorithms:
 - Selection Sort
